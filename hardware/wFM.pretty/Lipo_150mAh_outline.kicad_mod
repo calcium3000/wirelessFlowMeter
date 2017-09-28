@@ -1,0 +1,12 @@
+(module Lipo_150mAh_outline (layer F.Cu) (tedit 59C3B804)
+  (fp_text reference REF** (at 1.9 -1.5) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Lipo_150mAh_outline (at 7.7 27.3) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_line (start 0 26.1) (end 0 0) (layer F.Fab) (width 0.127))
+  (fp_line (start 19.8 26.1) (end 0 26.1) (layer F.Fab) (width 0.127))
+  (fp_line (start 19.8 0) (end 19.8 26.1) (layer F.Fab) (width 0.127))
+  (fp_line (start 0 0) (end 19.8 0) (layer F.Fab) (width 0.127))
+)

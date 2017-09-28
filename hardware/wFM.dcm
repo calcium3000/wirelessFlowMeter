@@ -1,0 +1,76 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +VDD
+K power, pwr, vdd
+$ENDCMP
+#
+$CMP +VUSB
+K power, pwr, usb
+$ENDCMP
+#
+$CMP 1x2
+D Connector, single row, 1x2
+K connector 1x2
+$ENDCMP
+#
+$CMP 1x3
+D Connector, single row, 1x3
+K connector 1x3
+$ENDCMP
+#
+$CMP 1x6
+D Connector, single row, 1x6
+K connector 1x6
+$ENDCMP
+#
+$CMP 2x3
+D Connector, double row, 2x3
+K connector
+$ENDCMP
+#
+$CMP 3PDT
+D Switch, 3PDT
+K switch 3pdt
+$ENDCMP
+#
+$CMP ATmega328P-AU
+D TQFP32, 32k Flash, 2kB SRAM, 1kB EEPROM
+K avr 8bit microcontroller
+$ENDCMP
+#
+$CMP ATmega368P-AU
+D TQFP32, 32k Flash, 2kB SRAM, 1kB EEPROM
+K avr 8bit microcontroller
+$ENDCMP
+#
+$CMP CSTLS_G
+D Resonator, ceramic
+K ceramic resonator
+$ENDCMP
+#
+$CMP DPDT
+D Switch, DPDT
+K switch dpdt
+$ENDCMP
+#
+$CMP MCP73831
+D Battery charger, 4.2V, lipo, SOT-23-5
+K battery charger lipo
+$ENDCMP
+#
+$CMP MIC5205-3.3
+D 150 mA Low Dropout Voltage Regulator, 3.3V
+K regulator ldo 3.3v
+$ENDCMP
+#
+$CMP USB_microB
+D USB micro connector type B
+K connector usb b otg micro
+$ENDCMP
+#
+$CMP nRF24L01+_module
+D 2.4GHz transceiver module
+K nrf24l01+ transceiver 2.4ghz wireless
+$ENDCMP
+#
+#End Doc Library
