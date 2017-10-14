@@ -1,4 +1,4 @@
-update=Thursday, September 28, 2017 'AMt' 07:02:45 AM
+update=Friday, October 06, 2017 'PMt' 03:27:05 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,4 +58,4 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=/Users/calvincherry/Documents/Projects/wFM/hardware/wFM
+LibName30=/Users/calvincherry/Documents/Projects/wFM/wirelessFlowMeter/hardware/wFM
